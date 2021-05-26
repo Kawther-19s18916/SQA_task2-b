@@ -16,3 +16,4 @@ End switch
 Else 
 Print “no discount”
 End for
+hi
