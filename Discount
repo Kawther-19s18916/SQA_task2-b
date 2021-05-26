@@ -5,3 +5,14 @@ For (i=0; i<10;i++)
 Read array[i]
 If quantity>5
 Print 	“you got a discount.”
+Switch (type)
+Case 	candy:
+Print	 “the discount is 10%.”
+Case	cookie:
+Print	 “the discount is 25%”
+Case 	cake:
+Print	“the discount is 35%”
+End switch
+Else 
+Print “no discount”
+End for
