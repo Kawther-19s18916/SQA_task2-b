@@ -1,3 +1,7 @@
 Int	 i, id, quantity, price;
 String 	 array[10], type;
 Reade	 id, quantity, price, type;
+For (i=0; i<10;i++)
+Read array[i]
+If quantity>5
+Print 	“you got a discount.”
