@@ -1,0 +1,3 @@
+Int	 i, id, quantity, price;
+String 	 array[10], type;
+Reade	 id, quantity, price, type;
